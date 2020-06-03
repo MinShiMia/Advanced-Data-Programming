@@ -7,5 +7,6 @@ Class 1 Introduction
   
 
 Class 2 Social Science Programming Practices
+  - [workshop: Twitter data collection](https://datageneration.org/adp/twitter/)
 
 Class 3
