@@ -9,3 +9,7 @@ Class 1 Introduction
 Class 2 Social Science Programming Practices
   - [workshop: Twitter data collection](https://datageneration.org/adp/twitter/)
   - [exercise](exercise/ADP_Exercise01.pdf)
+
+Guest lecture by Professor Michael Tiefeldorf
+  - [R Packages] (static/Tiefelsdorf/Packages.html)
+  - [package zipped file] (static/Tiefeldorf/npar_1.0.tar.gz)
