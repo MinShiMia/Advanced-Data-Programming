@@ -11,5 +11,6 @@ Class 2 Social Science Programming Practices
   - [exercise](exercise/ADP_Exercise01.pdf)
 
 Guest lecture by Professor Michael Tiefeldorf
-  - [R Packages] (static/Tiefelsdorf/Packages.html)
-  - [package zipped file] (static/Tiefeldorf/npar_1.0.tar.gz)
+  - [R Packages](static/Tiefelsdorf/Packages.html)
+  - [package zipped file](static/Tiefeldorf/npar_1.0.tar.gz)
+  - [nparFiles.zip](static/Tiefeldorf/nparFiles.zip)
