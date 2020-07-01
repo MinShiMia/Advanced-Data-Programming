@@ -16,5 +16,5 @@ Class 4 Programming Lanugages: Python II
 
 Guest lecture by Professor Michael Tiefeldorf
   - [R Packages](static/Tiefelsdorf/Packages.html)
-  - [package zipped file](static/Tiefeldorf/npar_1.0.tar.gz)
-  - [nparFiles.zip](static/Tiefeldorf/nparFiles.zip)
+  - [package zipped file](https://github.com/karlho/Advanced-Data-Programming/blob/master/static/Tiefelsdorf/npar_1.0.tar.gz)
+  - [nparFiles.zip](https://github.com/karlho/Advanced-Data-Programming/blob/master/static/Tiefelsdorf/nparFiles.zip)
